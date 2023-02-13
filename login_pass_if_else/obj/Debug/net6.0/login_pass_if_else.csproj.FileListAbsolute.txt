@@ -1,0 +1,15 @@
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\bin\Debug\net6.0\login_pass_if_else.exe
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\bin\Debug\net6.0\login_pass_if_else.deps.json
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\bin\Debug\net6.0\login_pass_if_else.runtimeconfig.json
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\bin\Debug\net6.0\login_pass_if_else.dll
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\bin\Debug\net6.0\login_pass_if_else.pdb
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\obj\Debug\net6.0\login_pass_if_else.csproj.AssemblyReference.cache
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\obj\Debug\net6.0\login_pass_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\obj\Debug\net6.0\login_pass_if_else.AssemblyInfoInputs.cache
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\obj\Debug\net6.0\login_pass_if_else.AssemblyInfo.cs
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\obj\Debug\net6.0\login_pass_if_else.csproj.CoreCompileInputs.cache
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\obj\Debug\net6.0\login_pass_if_else.dll
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\obj\Debug\net6.0\refint\login_pass_if_else.dll
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\obj\Debug\net6.0\login_pass_if_else.pdb
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\obj\Debug\net6.0\login_pass_if_else.genruntimeconfig.cache
+C:\Users\vlsse\source\repos\login_pass_if_else\login_pass_if_else\obj\Debug\net6.0\ref\login_pass_if_else.dll
